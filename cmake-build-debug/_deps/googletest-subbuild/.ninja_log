@@ -1,0 +1,21 @@
+# ninja log v5
+1	159	6931929104373861	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	2e521583984c4b57
+1	159	6931929104373861	C:/Users/gonos/labwork-6-AnnaGonos/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	2e521583984c4b57
+160	26068	6931929363467316	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	ea77eaa8b805c004
+160	26068	6931929363467316	C:/Users/gonos/labwork-6-AnnaGonos/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	ea77eaa8b805c004
+26068	26278	0	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	3bab11d45f7a8795
+26068	26278	0	C:/Users/gonos/labwork-6-AnnaGonos/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	3bab11d45f7a8795
+26278	26362	6931929366414951	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	d2173ba529f42eb3
+26278	26362	6931929366414951	C:/Users/gonos/labwork-6-AnnaGonos/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	d2173ba529f42eb3
+26362	26433	6931929367127383	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	da759677c6099b9a
+26362	26433	6931929367127383	C:/Users/gonos/labwork-6-AnnaGonos/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	da759677c6099b9a
+26433	26501	6931929367813143	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	a41c3183abc6b78
+26433	26501	6931929367813143	C:/Users/gonos/labwork-6-AnnaGonos/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	a41c3183abc6b78
+26501	26581	6931929368603143	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	182efd146bff5ecb
+26501	26581	6931929368603143	C:/Users/gonos/labwork-6-AnnaGonos/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	182efd146bff5ecb
+26581	26650	6931929369302647	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	45e9fcc4b8d442f6
+26581	26650	6931929369302647	C:/Users/gonos/labwork-6-AnnaGonos/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	45e9fcc4b8d442f6
+26650	26747	6931929370262116	CMakeFiles/googletest-populate-complete	8f579d9ec91877c9
+26650	26747	6931929370262116	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	8f579d9ec91877c9
+26650	26747	6931929370262116	C:/Users/gonos/labwork-6-AnnaGonos/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	8f579d9ec91877c9
+26650	26747	6931929370262116	C:/Users/gonos/labwork-6-AnnaGonos/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	8f579d9ec91877c9

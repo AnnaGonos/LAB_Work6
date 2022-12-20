@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/gonos/labwork-6-AnnaGonos/cmake-build-debug/tests/parser_tests[1]_tests.cmake")
+  include("C:/Users/gonos/labwork-6-AnnaGonos/cmake-build-debug/tests/parser_tests[1]_tests.cmake")
+else()
+  add_test(parser_tests_NOT_BUILT parser_tests_NOT_BUILT)
+endif()
